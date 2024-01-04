@@ -30,7 +30,7 @@ Hello, I'm Brian Medina Sánchez, a student at 'ITESS' on the verge of completin
 
 ## 📈 GitHub Stats
 
-![My GitHub Stats](URL_TO_YOUR_GITHUB_STATS)
+![Brian Medina Sánchez](https://github-readme-stats.vercel.app/api?username=devbrianmedina&show_icons=true&theme=radical)
 
 ## 📫 Contact
 
@@ -93,7 +93,7 @@ Hola, soy Brian Medina Sánchez, un estudiante de 'ITESS' a punto de graduarse e
 
 ## 📈 Estadísticas de GitHub
 
-![Mis Estadísticas de GitHub](URL_DE_TUS_ESTADISTICAS_EN_GITHUB)
+![Brian Medina Sánchez](https://github-readme-stats.vercel.app/api?username=devbrianmedina&show_icons=true&theme=radical)
 
 ## 📫 Contacto
 
